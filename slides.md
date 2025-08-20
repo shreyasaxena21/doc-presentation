@@ -21,10 +21,6 @@ backgroundImage: url('https://static.vecteezy.com/system/resources/thumbnails/03
 
 ---
 
-_backgroundImage: url('images/background.png')
-_backgroundSize: cover
-_color: white
----
 
 # With Background Image
 
@@ -56,3 +52,4 @@ This slide uses **directives** to apply custom colors.
 # Thank You
 
 📧 Contact: **22f3001013@ds.study.iitm.ac.in**
+
