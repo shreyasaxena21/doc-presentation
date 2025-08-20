@@ -20,7 +20,7 @@ paginate: true
 
 ---
 
-<!-- _backgroundImage: url('images/background.png') -->
+<!-- _backgroundImage:  url('https://raw.githubusercontent.com/shreyasaxena21/doc-presentation/main/images/background.png') -->
 <!-- _backgroundSize: cover -->
 <!-- _color: white -->
 
@@ -54,3 +54,4 @@ This slide uses **directives** to apply custom colors.
 # Thank You
 
 📧 Contact: **22f3001013@ds.study.iitm.ac.in**
+
