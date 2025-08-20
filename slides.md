@@ -6,8 +6,6 @@ theme: gaia
 paginate: true
 ---
 
-<!-- _class: lead -->
-
 # Product Documentation
 
 📧 22f3001013@ds.study.iitm.ac.in  
@@ -56,4 +54,3 @@ This slide uses **directives** to apply custom colors.
 # Thank You
 
 📧 Contact: **22f3001013@ds.study.iitm.ac.in**
-
